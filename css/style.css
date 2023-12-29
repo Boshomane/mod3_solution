@@ -1,0 +1,13 @@
+.navbar-brand h1{
+    margin-top: -12px;
+}
+
+.container h2{
+	margin-top: 0px;
+}
+
+.menu-item{
+	background-color: lightgrey;
+	padding: 1px 15px;
+    margin: 10px;
+}
